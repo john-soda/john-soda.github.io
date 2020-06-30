@@ -12,8 +12,8 @@ Pablo Neruda, was a Chilean poet-diplomat and politician who won the Nobel Prize
   
 As Pablo Neruda said:  
 
-< Someday, somewhere – anywhere,
-< unfailingly, you’ll find yourself, and that, and
-< only that, can be the happiest or bitterest
-< hour of your life.
+> Someday, somewhere – anywhere,
+> unfailingly, you’ll find yourself, and that, and
+> only that, can be the happiest or bitterest
+> hour of your life.
 
